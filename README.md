@@ -1,4 +1,4 @@
 # Dicee
 Dice game with 2 players
 
-!(/screenshot.png?raw=true)
+![Alt text](/screenshot.png?raw=true)
